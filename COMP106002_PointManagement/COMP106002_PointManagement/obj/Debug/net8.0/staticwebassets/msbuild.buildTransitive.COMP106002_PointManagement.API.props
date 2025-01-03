@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\COMP106002_PointManagement.API.props" />
+</Project>

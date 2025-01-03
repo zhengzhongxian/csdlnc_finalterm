@@ -1,0 +1,1119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|c:\\users\\admin\\downloads\\pointmanagement_application (2)\\pointmanagement_application\\pointmanagement_application\\formtbaddsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbaddsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formdeletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formdeletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formupdatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\helper\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\helper\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\helper\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\helper\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\illink\\illink.descriptors.librarybuild.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\illink\\illink.descriptors.librarybuild.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\loadingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\loadingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\loadingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\loadingupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formaddstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formseedetailstudentmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formseedetailstudentmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formseedetailstudentmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formseedetailstudentmenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\service\\implement\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\service\\implement\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formaddclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmain_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmain_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\helper\\formhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\helper\\formhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\academicyeardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\academicyeardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formnotupdateresultexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formnotupdateresultexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formexammenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formexammenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formaddschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formaddschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmaindetailexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmaindetailexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmaindetailexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmaindetailexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formcreatexamresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formcreatexamresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmaindetailclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmaindetailclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbsendsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbsendsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbsendsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbsendsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formexammenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formexammenustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbupdateexamsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbupdateexamsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbupdateexamresultsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbupdateexamresultsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbupdatescoresuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbupdatescoresuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formupdateexamresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formupdateexamresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formnotcreatresultexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formnotcreatresultexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formstudentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formupdateexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formupdateexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbproccessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbproccessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbdeletesucces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbdeletesucces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbdeleteschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbdeleteschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbdeleteexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbdeleteexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbdeleteclassstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbdeleteclassstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbdeleteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbdeleteclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbaddexamsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbaddexamsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbaddexamresultsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbaddexamresultsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbaddclasssuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbaddclasssuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formmainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formmainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formexamdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formexamdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formtbchangepasswordsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formtbchangepasswordsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\formchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\formchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\pointmanagement_application\\dtos\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9AED8-54C6-4729-9BA0-2E58AD48694D}|PointManagement_Application\\PointManagement_Application.csproj|solutionrelative:pointmanagement_application\\dtos\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDeleteStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormDeleteStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormDeleteStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormDeleteStudent.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormDeleteStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:45:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateStudent.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormUpdateStudent.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAIwJcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:15:17.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Helper\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\ApiHelper.cs",
+              "RelativeToolTip": "PointManagement_Application\\Helper\\ApiHelper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:31:57.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Loading.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Loading.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Loading.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:12:18.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTbAddSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbAddSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbAddSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:11.525Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\WebSocketClient.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Helper\\WebSocketClient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\WebSocketClient.cs",
+              "RelativeToolTip": "PointManagement_Application\\Helper\\WebSocketClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:35:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILLink.Descriptors.LibraryBuild.xml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\ILLink\\ILLink.Descriptors.LibraryBuild.xml",
+              "RelativeDocumentMoniker": "PointManagement_Application\\ILLink\\ILLink.Descriptors.LibraryBuild.xml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\ILLink\\ILLink.Descriptors.LibraryBuild.xml",
+              "RelativeToolTip": "PointManagement_Application\\ILLink\\ILLink.Descriptors.LibraryBuild.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-02T16:32:44.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUpdateStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormUpdateStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateStudent.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormUpdateStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:30:14.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\Auditable.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\Auditable.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\Auditable.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\Auditable.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:28:26.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMainStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormMainStudent.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAkwNoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:48:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Formlogin.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Formlogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Formlogin.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\Formlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:10:30.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadingUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\LoadingUpdate.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\LoadingUpdate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\LoadingUpdate.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\LoadingUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:51:35.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoadingUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\LoadingUpdate.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\LoadingUpdate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\LoadingUpdate.cs",
+              "RelativeToolTip": "PointManagement_Application\\LoadingUpdate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vxEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:52:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:11:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormSeeDetailStudentMenuStrip.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:18:08.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormAddStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddStudent.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormAddStudent.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:27:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormSeeDetailStudentMenuStrip.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormSeeDetailStudentMenuStrip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:41:49.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Service\\Implement\\StudentService.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Service\\Implement\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Service\\Implement\\StudentService.cs",
+              "RelativeToolTip": "PointManagement_Application\\Service\\Implement\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:34:07.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAddClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddClass.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormAddClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddClass.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormAddClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:12:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormMainStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMainStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:43:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Program.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Program.cs",
+              "RelativeToolTip": "PointManagement_Application\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:34:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAddClass.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddClass.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormAddClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddClass.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormAddClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:47:10.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormMainExams.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainExams.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainExams.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainExams.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormMainExams.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAMwKgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:40:09.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\StudentUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:51:24.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormStudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormStudentDetails.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormStudentDetails.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormStudentDetails.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormStudentDetails.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:24:04.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Formlogin.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Formlogin.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Formlogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Formlogin.cs",
+              "RelativeToolTip": "PointManagement_Application\\Formlogin.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:04:33.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormMain_Manager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMain_Manager.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMain_Manager.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMain_Manager.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMain_Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:42:23.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\FormHelper.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Helper\\FormHelper.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\FormHelper.cs",
+              "RelativeToolTip": "PointManagement_Application\\Helper\\FormHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:18:39.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentCreateDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\StudentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\StudentCreateDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\StudentCreateDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:32:47.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\Helper\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\Helper\\ApiResponse.cs",
+              "RelativeToolTip": "PointManagement_Application\\Helper\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:19:01.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormNotUpdateResultExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormNotUpdateResultExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormNotUpdateResultExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormNotUpdateResultExam.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormNotUpdateResultExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:43:05.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AcademicYearDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\AcademicYearDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\AcademicYearDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\AcademicYearDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\AcademicYearDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:10:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormExamMenuStrip.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamMenuStrip.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormExamMenuStrip.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamMenuStrip.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormExamMenuStrip.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAASwI0AAADCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:14:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormAddSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddSchedule.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormAddSchedule.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormAddSchedule.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormAddSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T15:18:13.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormReason.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormReason.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormReason.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormReason.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormReason.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:52:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormMainStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.Designer.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainStudent.Designer.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormMainStudent.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAEwGkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:38:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\EmailRequest.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\EmailRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:00:21.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormMainDetailExam.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainDetailExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailExam.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormMainDetailExam.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAArwP8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:54:15.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\ScheduleDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ScheduleDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\ScheduleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:00:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormMainDetailExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainDetailExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailExam.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMainDetailExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:25:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormCreatExamResult.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormCreatExamResult.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormCreatExamResult.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormCreatExamResult.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormCreatExamResult.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwIUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:56:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormMainDetailClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailClass.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainDetailClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainDetailClass.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMainDetailClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:56:08.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormExamMenuStrip.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamMenuStrip.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormExamMenuStrip.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamMenuStrip.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormExamMenuStrip.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:03:53.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormTbSendSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbSendSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbSendSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbSendSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbSendSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:48:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormTbSendSuccess.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbSendSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbSendSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbSendSuccess.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormTbSendSuccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:50:53.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormReason.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormReason.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormReason.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormReason.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormReason.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:57:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormMainExams.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainExams.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainExams.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainExams.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMainExams.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:13:00.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormTbUpdateExamSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateExamSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbUpdateExamSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateExamSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbUpdateExamSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:30:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormTbUpdateExamResultSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateExamResultSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbUpdateExamResultSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateExamResultSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbUpdateExamResultSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:20.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormTbUpdateScoreSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateScoreSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbUpdateScoreSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbUpdateScoreSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbUpdateScoreSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormUpdateExamResult.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateExamResult.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormUpdateExamResult.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateExamResult.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormUpdateExamResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:26.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormNotCreatResultExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormNotCreatResultExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormNotCreatResultExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormNotCreatResultExam.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormNotCreatResultExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:43:04.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormUpdateExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormUpdateExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormUpdateExam.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormUpdateExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:28.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormStudentDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormStudentDetails.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormStudentDetails.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormStudentDetails.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormStudentDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:24:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormTbProccessing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbProccessing.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbProccessing.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbProccessing.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbProccessing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:21.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormTbDeleteSucces.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteSucces.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbDeleteSucces.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteSucces.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbDeleteSucces.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:19.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormTbDeleteSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteSchedule.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbDeleteSchedule.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteSchedule.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbDeleteSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:17.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormTbDeleteExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteExam.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbDeleteExam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteExam.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbDeleteExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:16.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormTbDeleteClassStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteClassStudent.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbDeleteClassStudent.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteClassStudent.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbDeleteClassStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormTbDeleteClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteClass.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbDeleteClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbDeleteClass.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbDeleteClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:12.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormTbAddExamSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddExamSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbAddExamSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddExamSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbAddExamSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:10.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormTbAddExamResultSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddExamResultSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbAddExamResultSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddExamResultSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbAddExamResultSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormTbAddClassSuccess.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddClassSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbAddClassSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbAddClassSuccess.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormTbAddClassSuccess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:42:06.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormChangePassword.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormChangePassword.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormChangePassword.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:58:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormMainClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainClass.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormMainClass.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormMainClass.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormMainClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:04:31.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormSeat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeat.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormSeat.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormSeat.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormSeat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:59:56.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormExamDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamDetail.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormExamDetail.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormExamDetail.cs [Design]",
+              "RelativeToolTip": "PointManagement_Application\\FormExamDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:29:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormTbChangePasswordSuccess.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbChangePasswordSuccess.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormTbChangePasswordSuccess.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormTbChangePasswordSuccess.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormTbChangePasswordSuccess.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:06:17.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormChangePassword.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\FormChangePassword.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\FormChangePassword.cs",
+              "RelativeToolTip": "PointManagement_Application\\FormChangePassword.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:02:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "PointManagement_Application\\DTOs\\ComboBoxItem.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PointManagement_Application (2)\\PointManagement_Application\\PointManagement_Application\\DTOs\\ComboBoxItem.cs",
+              "RelativeToolTip": "PointManagement_Application\\DTOs\\ComboBoxItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:12:50.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

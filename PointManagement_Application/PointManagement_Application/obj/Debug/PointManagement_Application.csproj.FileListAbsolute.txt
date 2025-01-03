@@ -1,0 +1,217 @@
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.exe.config
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.exe
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointMan.A419A24F.Up2Date
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.exe
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.Flogin.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMain_Manager.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormDeleteStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainExams.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddExamSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateExamSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormExamDetail.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbLoginFalse.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainDetailExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteSchedule.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteSucces.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddSchedule.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormSeat.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateSchedule.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormCreatExamResult.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormExamMenuStrip.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormNotCreatResultExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddExamResultSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormNotUpdateResultExam.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateExamResultSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateExamResult.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainClass.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddClass.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddClassSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteClass.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbProccessing.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainDetailClass.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteClassStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddClassStudent.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateScoreSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateClassScore.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormSeeDetailStudentMenuStrip.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormStudentDetails.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormChangePassword.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbChangePasswordSuccess.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormReason.resources
+C:\Users\ADMIN\Desktop\HK1-Season3\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbSendSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.exe.config
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.exe
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\PointManagement_Application.pdb
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddClass.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddClassStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddSchedule.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormAddStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormChangePassword.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormCreatExamResult.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormDeleteStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormExamDetail.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormExamMenuStrip.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.Flogin.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainClass.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainDetailClass.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainDetailExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainExams.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMainStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormMain_Manager.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormNotCreatResultExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormNotUpdateResultExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormReason.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormSeat.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormSeeDetailStudentMenuStrip.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormStudentDetails.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddClassSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddExamResultSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddExamSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbAddSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbChangePasswordSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteClass.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteClassStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteSchedule.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbDeleteSucces.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbLoginFalse.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbProccessing.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbSendSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateExamResultSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateExamSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateScoreSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormTbUpdateSuccess.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateClassScore.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateExam.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateExamResult.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateSchedule.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.FormUpdateStudent.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointMan.A419A24F.Up2Date
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.exe
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.pdb
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.Loading.resources
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Channels.dll
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\bin\Debug\System.Threading.Channels.xml
+C:\Users\ADMIN\Downloads\PointManagement_Application (2)\PointManagement_Application\PointManagement_Application\obj\Debug\PointManagement_Application.LoadingUpdate.resources

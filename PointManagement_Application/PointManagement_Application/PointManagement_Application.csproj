@@ -1,0 +1,661 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67D9AED8-54C6-4729-9BA0-2E58AD48694D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PointManagement_Application</RootNamespace>
+    <AssemblyName>PointManagement_Application</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.SignalR.Client, Version=2.4.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.SignalR.Client.2.4.3\lib\net45\Microsoft.AspNet.SignalR.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Connections.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Connections.Abstractions.9.0.0\lib\net462\Microsoft.AspNetCore.Connections.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Features, Version=5.0.17.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Features.5.0.17\lib\net461\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Client.Core, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.SignalR.Client.Core.9.0.0\lib\net462\Microsoft.AspNetCore.SignalR.Client.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.SignalR.Common.9.0.0\lib\net462\Microsoft.AspNetCore.SignalR.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Protocols.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.SignalR.Protocols.Json.9.0.0\lib\net462\Microsoft.AspNetCore.SignalR.Protocols.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.9.0.0\lib\net462\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.TimeProvider, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.TimeProvider.9.0.0\lib\net462\Microsoft.Bcl.TimeProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.9.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.9.0.0\lib\net462\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Features, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Features.9.0.0\lib\net462\Microsoft.Extensions.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.9.0.0\lib\net462\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.9.0.0\lib\net462\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.9.0.0\lib\net462\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.9.0.0\lib\net462\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Abstractions, Version=8.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Abstractions.8.2.0\lib\net472\Microsoft.IdentityModel.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=8.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.JsonWebTokens.8.2.0\lib\net472\Microsoft.IdentityModel.JsonWebTokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=8.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.8.2.0\lib\net472\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=8.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.8.2.0\lib\net472\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.9.0.0\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel.Tokens.Jwt, Version=8.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IdentityModel.Tokens.Jwt.8.2.0\lib\net472\System.IdentityModel.Tokens.Jwt.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Pipelines.9.0.0\lib\net462\System.IO.Pipelines.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Net.Sockets, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.9.0.0\lib\net462\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.9.0.0\lib\net462\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Channels.9.0.0\lib\net462\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DTOs\AcademicYearDTO.cs" />
+    <Compile Include="DTOs\Auditable.cs" />
+    <Compile Include="DTOs\ChangePasswordDTO.cs" />
+    <Compile Include="DTOs\ComboBoxItem.cs" />
+    <Compile Include="DTOs\CrudClass.cs" />
+    <Compile Include="DTOs\CrudClassStudent.cs" />
+    <Compile Include="DTOs\EducationSystemDTO.cs" />
+    <Compile Include="DTOs\EmailRequest.cs" />
+    <Compile Include="DTOs\ExamCreateDTO.cs" />
+    <Compile Include="DTOs\ExamDTO.cs" />
+    <Compile Include="DTOs\FacultyDTO.cs" />
+    <Compile Include="DTOs\LecturerDTO.cs" />
+    <Compile Include="DTOs\LecturerSubjectDTO.cs" />
+    <Compile Include="DTOs\LoginDTO.cs" />
+    <Compile Include="DTOs\OtherStudentDTO.cs" />
+    <Compile Include="DTOs\RoomDTO.cs" />
+    <Compile Include="DTOs\ScheduleDTO.cs" />
+    <Compile Include="DTOs\SemesterDTO.cs" />
+    <Compile Include="DTOs\SimplifiedLecturerDTO.cs" />
+    <Compile Include="DTOs\StudentCreateDTO.cs" />
+    <Compile Include="DTOs\StudentDTO.cs" />
+    <Compile Include="DTOs\StudentScoreDTO.cs" />
+    <Compile Include="DTOs\StudentUpdateDTO.cs" />
+    <Compile Include="DTOs\SubjectDTO.cs" />
+    <Compile Include="FormAddClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddClass.Designer.cs">
+      <DependentUpon>FormAddClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddClassStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddClassStudent.Designer.cs">
+      <DependentUpon>FormAddClassStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddExam.Designer.cs">
+      <DependentUpon>FormAddExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSchedule.Designer.cs">
+      <DependentUpon>FormAddSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddStudent.Designer.cs">
+      <DependentUpon>FormAddStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChangePassword.Designer.cs">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCreatExamResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreatExamResult.Designer.cs">
+      <DependentUpon>FormCreatExamResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteStudent.Designer.cs">
+      <DependentUpon>FormDeleteStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExamDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExamDetail.Designer.cs">
+      <DependentUpon>FormExamDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormExamMenuStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormExamMenuStrip.Designer.cs">
+      <DependentUpon>FormExamMenuStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.Designer.cs">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainClass.Designer.cs">
+      <DependentUpon>FormMainClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainDetailClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainDetailClass.Designer.cs">
+      <DependentUpon>FormMainDetailClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainDetailExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainDetailExam.Designer.cs">
+      <DependentUpon>FormMainDetailExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainExams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainExams.Designer.cs">
+      <DependentUpon>FormMainExams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainStudent.Designer.cs">
+      <DependentUpon>FormMainStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain_Manager.Designer.cs">
+      <DependentUpon>FormMain_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotCreatResultExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotCreatResultExam.Designer.cs">
+      <DependentUpon>FormNotCreatResultExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotUpdateResultExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotUpdateResultExam.Designer.cs">
+      <DependentUpon>FormNotUpdateResultExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReason.Designer.cs">
+      <DependentUpon>FormReason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSeat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSeat.Designer.cs">
+      <DependentUpon>FormSeat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSeeDetailStudentMenuStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSeeDetailStudentMenuStrip.Designer.cs">
+      <DependentUpon>FormSeeDetailStudentMenuStrip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStudentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStudentDetails.Designer.cs">
+      <DependentUpon>FormStudentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbAddClassSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbAddClassSuccess.Designer.cs">
+      <DependentUpon>FormTbAddClassSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbAddExamResultSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbAddExamResultSuccess.Designer.cs">
+      <DependentUpon>FormTbAddExamResultSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbAddExamSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbAddExamSuccess.Designer.cs">
+      <DependentUpon>FormTbAddExamSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbAddSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbAddSuccess.Designer.cs">
+      <DependentUpon>FormTbAddSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbChangePasswordSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbChangePasswordSuccess.Designer.cs">
+      <DependentUpon>FormTbChangePasswordSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbDeleteClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbDeleteClass.Designer.cs">
+      <DependentUpon>FormTbDeleteClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbDeleteClassStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbDeleteClassStudent.Designer.cs">
+      <DependentUpon>FormTbDeleteClassStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbDeleteExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbDeleteExam.Designer.cs">
+      <DependentUpon>FormTbDeleteExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbDeleteSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbDeleteSchedule.Designer.cs">
+      <DependentUpon>FormTbDeleteSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbDeleteSucces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbDeleteSucces.Designer.cs">
+      <DependentUpon>FormTbDeleteSucces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbLoginFalse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbLoginFalse.Designer.cs">
+      <DependentUpon>FormTbLoginFalse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbProccessing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbProccessing.Designer.cs">
+      <DependentUpon>FormTbProccessing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbSendSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbSendSuccess.Designer.cs">
+      <DependentUpon>FormTbSendSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbUpdateExamResultSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbUpdateExamResultSuccess.Designer.cs">
+      <DependentUpon>FormTbUpdateExamResultSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbUpdateExamSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbUpdateExamSuccess.Designer.cs">
+      <DependentUpon>FormTbUpdateExamSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbUpdateScoreSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbUpdateScoreSuccess.Designer.cs">
+      <DependentUpon>FormTbUpdateScoreSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTbUpdateSuccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTbUpdateSuccess.Designer.cs">
+      <DependentUpon>FormTbUpdateSuccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateClassScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateClassScore.Designer.cs">
+      <DependentUpon>FormUpdateClassScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateExam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateExam.Designer.cs">
+      <DependentUpon>FormUpdateExam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateExamResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateExamResult.Designer.cs">
+      <DependentUpon>FormUpdateExamResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateSchedule.Designer.cs">
+      <DependentUpon>FormUpdateSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateStudent.Designer.cs">
+      <DependentUpon>FormUpdateStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\ApiHelper.cs" />
+    <Compile Include="Helper\ApiResponse.cs" />
+    <Compile Include="Helper\FormHelper.cs" />
+    <Compile Include="Helper\GlowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Helper\ServiceResponse.cs" />
+    <Compile Include="Helper\WebSocketClient.cs" />
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingUpdate.Designer.cs">
+      <DependentUpon>LoadingUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScheduleCreateUpdateDTO.cs" />
+    <Compile Include="Service\Implement\AuthService.cs" />
+    <Compile Include="Service\Implement\StudentService.cs" />
+    <Compile Include="Service\Iservice\IAuthService.cs" />
+    <Compile Include="Service\Iservice\IStudentService.cs" />
+    <EmbeddedResource Include="FormAddClass.resx">
+      <DependentUpon>FormAddClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddClassStudent.resx">
+      <DependentUpon>FormAddClassStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddExam.resx">
+      <DependentUpon>FormAddExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSchedule.resx">
+      <DependentUpon>FormAddSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddStudent.resx">
+      <DependentUpon>FormAddStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChangePassword.resx">
+      <DependentUpon>FormChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCreatExamResult.resx">
+      <DependentUpon>FormCreatExamResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteStudent.resx">
+      <DependentUpon>FormDeleteStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExamDetail.resx">
+      <DependentUpon>FormExamDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormExamMenuStrip.resx">
+      <DependentUpon>FormExamMenuStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlogin.resx">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainClass.resx">
+      <DependentUpon>FormMainClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainDetailClass.resx">
+      <DependentUpon>FormMainDetailClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainDetailExam.resx">
+      <DependentUpon>FormMainDetailExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainExams.resx">
+      <DependentUpon>FormMainExams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainStudent.resx">
+      <DependentUpon>FormMainStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain_Manager.resx">
+      <DependentUpon>FormMain_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotCreatResultExam.resx">
+      <DependentUpon>FormNotCreatResultExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotUpdateResultExam.resx">
+      <DependentUpon>FormNotUpdateResultExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReason.resx">
+      <DependentUpon>FormReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSeat.resx">
+      <DependentUpon>FormSeat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSeeDetailStudentMenuStrip.resx">
+      <DependentUpon>FormSeeDetailStudentMenuStrip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStudentDetails.resx">
+      <DependentUpon>FormStudentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbAddClassSuccess.resx">
+      <DependentUpon>FormTbAddClassSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbAddExamResultSuccess.resx">
+      <DependentUpon>FormTbAddExamResultSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbAddExamSuccess.resx">
+      <DependentUpon>FormTbAddExamSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbAddSuccess.resx">
+      <DependentUpon>FormTbAddSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbChangePasswordSuccess.resx">
+      <DependentUpon>FormTbChangePasswordSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbDeleteClass.resx">
+      <DependentUpon>FormTbDeleteClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbDeleteClassStudent.resx">
+      <DependentUpon>FormTbDeleteClassStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbDeleteExam.resx">
+      <DependentUpon>FormTbDeleteExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbDeleteSchedule.resx">
+      <DependentUpon>FormTbDeleteSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbDeleteSucces.resx">
+      <DependentUpon>FormTbDeleteSucces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbLoginFalse.resx">
+      <DependentUpon>FormTbLoginFalse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbProccessing.resx">
+      <DependentUpon>FormTbProccessing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbSendSuccess.resx">
+      <DependentUpon>FormTbSendSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbUpdateExamResultSuccess.resx">
+      <DependentUpon>FormTbUpdateExamResultSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbUpdateExamSuccess.resx">
+      <DependentUpon>FormTbUpdateExamSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbUpdateScoreSuccess.resx">
+      <DependentUpon>FormTbUpdateScoreSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTbUpdateSuccess.resx">
+      <DependentUpon>FormTbUpdateSuccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateClassScore.resx">
+      <DependentUpon>FormUpdateClassScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateExam.resx">
+      <DependentUpon>FormUpdateExam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateExamResult.resx">
+      <DependentUpon>FormUpdateExamResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateSchedule.resx">
+      <DependentUpon>FormUpdateSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateStudent.resx">
+      <DependentUpon>FormUpdateStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingUpdate.resx">
+      <DependentUpon>LoadingUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ILLink\ILLink.Descriptors.LibraryBuild.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

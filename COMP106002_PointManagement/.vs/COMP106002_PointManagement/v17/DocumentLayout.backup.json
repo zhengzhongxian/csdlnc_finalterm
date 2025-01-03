@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|solutionrelative:comp106002_pointmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement\\comp106002_pointmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|solutionrelative:comp106002_pointmanagement\\comp106002_pointmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\c0d8eafb-fd61-4e50-a41c-73517e9b6de1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|solutionrelative:comp106002_pointmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.services\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|solutionrelative:comp106002_pointmanagement.services\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.services\\coreheplers\\cloudinaryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|solutionrelative:comp106002_pointmanagement.services\\coreheplers\\cloudinaryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\entities\\pm_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\entities\\pm_app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\coreheplers\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\coreheplers\\auditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.services\\services\\iservices\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|solutionrelative:comp106002_pointmanagement.services\\services\\iservices\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\mongorepositories\\implementations\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\mongorepositories\\implementations\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\mongorepositories\\irepositoties\\imetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\mongorepositories\\irepositoties\\imetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\models\\cu_dto\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\models\\cu_dto\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.services\\services\\implementations\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|solutionrelative:comp106002_pointmanagement.services\\services\\implementations\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.services\\coreheplers\\progresshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE2ABA6-22E6-4AE7-95C4-AD1576495176}|COMP106002_PointManagement.Services\\COMP106002_PointManagement.Services.csproj|solutionrelative:comp106002_pointmanagement.services\\coreheplers\\progresshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|solutionrelative:comp106002_pointmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0478382F-72A7-4A83-B7CB-B1D8253F0908}|COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj|solutionrelative:comp106002_pointmanagement\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|c:\\users\\admin\\desktop\\hk1-season3\\csdlnc_finalterm\\comp106002_pointmanagement\\comp106002_pointmanagement.repositories\\repositories\\implementations\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F5422-80EA-49F5-898A-B2CEC2438877}|COMP106002_PointManagement.Repositories\\COMP106002_PointManagement.Repositories.csproj|solutionrelative:comp106002_pointmanagement.repositories\\repositories\\implementations\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:47:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Program.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Program.cs",
+              "RelativeToolTip": "COMP106002_PointManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:01:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "COMP106002_PointManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:59:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "COMP106002_PointManagement.API",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj",
+              "RelativeToolTip": "COMP106002_PointManagement\\COMP106002_PointManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T07:22:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\c0d8eafb-fd61-4e50-a41c-73517e9b6de1\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c0d8eafb-fd61-4e50-a41c-73517e9b6de1\\secrets.json",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Roaming\\Microsoft\\UserSecrets\\c0d8eafb-fd61-4e50-a41c-73517e9b6de1\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\c0d8eafb-fd61-4e50-a41c-73517e9b6de1\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T03:15:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\IServices\\IStudentService.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Services\\Services\\IServices\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\IServices\\IStudentService.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Services\\Services\\IServices\\IStudentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:39:05.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\Exam.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:09:58.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CloudinaryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\CoreHeplers\\CloudinaryHelper.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Services\\CoreHeplers\\CloudinaryHelper.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\CoreHeplers\\CloudinaryHelper.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Services\\CoreHeplers\\CloudinaryHelper.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:10:31.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Services\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Services\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAowNEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:02:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\Student.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:18:27.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Metadata.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\MongoRepositories\\Implementations\\Metadata.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\MongoRepositories\\Implementations\\Metadata.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\MongoRepositories\\Implementations\\Metadata.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\MongoRepositories\\Implementations\\Metadata.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:16:47.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PM_App.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\PM_App.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Entities\\PM_App.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Entities\\PM_App.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Entities\\PM_App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T02:47:10.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auditable.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\CoreHeplers\\Auditable.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\CoreHeplers\\Auditable.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\CoreHeplers\\Auditable.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\CoreHeplers\\Auditable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:17:05.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Models\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Models\\DTO\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Models\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Models\\DTO\\StudentDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:25:20.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\MongoRepositories\\IRepositoties\\IMetadata.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\MongoRepositories\\IRepositoties\\IMetadata.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\MongoRepositories\\IRepositoties\\IMetadata.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\MongoRepositories\\IRepositoties\\IMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:18:16.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Models\\CU_DTO\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Models\\CU_DTO\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Models\\CU_DTO\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Models\\CU_DTO\\StudentUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:00:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\Implementations\\ClassService.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Services\\Services\\Implementations\\ClassService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\Services\\Implementations\\ClassService.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Services\\Services\\Implementations\\ClassService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv2QAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:23:47.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProgressHub.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\CoreHeplers\\ProgressHub.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Services\\CoreHeplers\\ProgressHub.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Services\\CoreHeplers\\ProgressHub.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Services\\CoreHeplers\\ProgressHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:13:08.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "COMP106002_PointManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T21:17:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "COMP106002_PointManagement\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwDQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:59:29.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\ClassRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\HK1-Season3\\csdlnc_finalterm\\COMP106002_PointManagement\\COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\ClassRepository.cs",
+              "RelativeToolTip": "COMP106002_PointManagement.Repositories\\Repositories\\Implementations\\ClassRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDUAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:58:19.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

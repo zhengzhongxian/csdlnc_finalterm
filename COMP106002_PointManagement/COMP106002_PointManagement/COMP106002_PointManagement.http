@@ -1,0 +1,6 @@
+@COMP106002_PointManagement_HostAddress = http://localhost:5175
+
+GET {{COMP106002_PointManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,42 @@
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.deps.json
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\refint\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\ref\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.deps.json
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\refint\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc\COMP106002_PointManagement (2)\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\ref\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.deps.json
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.runtimeconfig.json
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\bin\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\refint\COMP106002_PointManagement.Repositories.dll
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.pdb
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\COMP106002_PointManagement.Repositories.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\HK1-Season3\csdlnc_finalterm\COMP106002_PointManagement\COMP106002_PointManagement.Repositories\obj\Debug\net8.0\ref\COMP106002_PointManagement.Repositories.dll
